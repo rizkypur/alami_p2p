@@ -4,12 +4,15 @@
 **There are two test cases in this project**
 1. Register New User - Pemberi Dana (With Email Verification)
 2. Login New User
-
+<br>
+<br>
+<br>
 
 ### Project Sctructure (Brief)
 
 This project need to add custom keyword **GlobalVariableUpdater** to be able to update some Global variables Permanently on dev Profiles. So Test cases will be expexting to run new account by replacing the previous one everytime  Test Cases / Test Suits Executed.
-
+<br>
+<br>
 
 ```
 +--- Profiles 
@@ -35,7 +38,9 @@ This project need to add custom keyword **GlobalVariableUpdater** to be able to 
 |   + (default package)	
 |    \--- GlobalVariableUpdater.groovy
 ```
-
+<br>
+<br>
+<br>
 
 ### How to Run the Project
 1. Open the project via Katalon Studio
