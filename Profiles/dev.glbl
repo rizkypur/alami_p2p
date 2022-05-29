@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GlobalVariableEntities>
+   <description/>
+   <name>dev</name>
+   <tag/>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'https://dev.p2p.alamisharia.co.id/'</initValue>
+      <name>devUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'rizup2p_001@mailnesia.com'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'002'</initValue>
+      <name>nextUser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'1234567001'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description/>
+      <initValue>'Rizu P2P 001'</initValue>
+      <name>name</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

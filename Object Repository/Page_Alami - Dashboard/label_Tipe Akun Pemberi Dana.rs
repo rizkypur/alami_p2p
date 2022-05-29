@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Tipe Akun Pemberi Dana</name>
+   <tag></tag>
+   <elementGuidId>e9d80351-2c60-4052-8d87-5a8c04ae647c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='dashboardForm-p-0']/div/div/div/div/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.sub-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>75d11267-d180-4083-9ecd-1613e1e095ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-title</value>
+      <webElementGuid>95feff62-d9a1-49a4-92c8-1dc50aeecd25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipe Akun Pemberi Dana</value>
+      <webElementGuid>2b93ad1c-791a-41c3-a263-153fef56f721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboardForm-p-0&quot;)/div[@class=&quot;row no-gutters py-2 mt-3&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;body body-verifikasi&quot;]/div[@class=&quot;row no-gutters bg-delta p-3 p-lg-4 text-alfa&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;form-row double-column&quot;]/div[@class=&quot;col-md-12&quot;]/label[@class=&quot;sub-title&quot;]</value>
+      <webElementGuid>8e6aaace-6815-47ef-ac7f-736bd96addff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='dashboardForm-p-0']/div/div/div/div/div/div/div/label</value>
+      <webElementGuid>9fcba95f-f0c5-409a-9050-55b0910824fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil Pemberi Dana (5 Menit)'])[2]/following::label[1]</value>
+      <webElementGuid>4a3f5d63-18ac-4ed1-a430-97f4280240f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekening Bank (2 Menit)'])[1]/following::label[1]</value>
+      <webElementGuid>f82129eb-c34a-4db1-84a6-ba232f7e1598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Akun'])[1]/preceding::label[1]</value>
+      <webElementGuid>7befdf9a-2ae8-4ffc-b47d-27cd58aa5816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak ada yang dipilih'])[1]/preceding::label[2]</value>
+      <webElementGuid>9d897259-b0ef-4b55-ae87-14a1111a42d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tipe Akun Pemberi Dana']/parent::*</value>
+      <webElementGuid>f289a4ba-561c-4843-91bb-ff5ebdde740e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>9006c0eb-f318-4d03-b8cc-afebf5bdaed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Tipe Akun Pemberi Dana' or . = 'Tipe Akun Pemberi Dana')]</value>
+      <webElementGuid>65b2c457-51fc-4996-8dd4-43f67e7ec0e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
